@@ -1,8 +1,6 @@
-# Storefront
-A Django fullstack web project with add, delete and update members features to a database.
+# Storefront CRUD
+A Django back end web project with add, delete and update members features to a database.
 
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -114,6 +112,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
+
+## Get the Code
+```
+
+$ git clone https://github.com/CodeDroid999/Storefront.git
+
+```
 
 ### Prerequisites
 
